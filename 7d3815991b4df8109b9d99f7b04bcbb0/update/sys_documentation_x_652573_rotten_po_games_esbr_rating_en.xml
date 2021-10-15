@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="esbr_rating" label="ESBR Rating" language="en" table="x_652573_rotten_po_games">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>esbr_rating</element>
+            <help/>
+            <hint/>
+            <label>ESBR Rating</label>
+            <language>en</language>
+            <name>x_652573_rotten_po_games</name>
+            <plural>ESBR Ratings</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-28 20:35:24</sys_created_on>
+            <sys_id>f47d51dd1b4df8109b9d99f7b04bcb52</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>ESBR Rating</sys_name>
+            <sys_package display_value="Rotten Potatoes" source="x_652573_rotten_po">7d3815991b4df8109b9d99f7b04bcbb0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Rotten Potatoes">7d3815991b4df8109b9d99f7b04bcbb0</sys_scope>
+            <sys_update_name>sys_documentation_x_652573_rotten_po_games_esbr_rating_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-28 20:35:24</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="Rotten Potatoes">220765951b8df8109b9d99f7b04bcb5b</application>
+        <filter/>
+        <name>Reviews</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_652573_rotten_po.reviews_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-28 21:17:18</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>2e0765951b8df8109b9d99f7b04bcb5d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reviews</sys_name>
+        <sys_package display_value="Rotten Potatoes" source="x_652573_rotten_po">7d3815991b4df8109b9d99f7b04bcbb0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rotten Potatoes">7d3815991b4df8109b9d99f7b04bcbb0</sys_scope>
+        <sys_update_name>sys_ui_module_2e0765951b8df8109b9d99f7b04bcb5d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-28 21:17:18</sys_updated_on>
+        <table>x_652573_rotten_po_reviews</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Rotten Potatoes">7d3815991b4df8109b9d99f7b04bcbb0</application>
+        <file_path/>
+        <instance_id>530f916ddb483050f37acac5059619bc</instance_id>
+        <instance_name>dev114858</instance_name>
+        <name>sys_ui_module_2e0765951b8df8109b9d99f7b04bcb5d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Rotten Potatoes">220765951b8df8109b9d99f7b04bcb5b</application><filter/><name>Reviews</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_652573_rotten_po.reviews_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-28 21:17:18</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>2e0765951b8df8109b9d99f7b04bcb5d</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Reviews</sys_name><sys_package display_value="Rotten Potatoes" source="x_652573_rotten_po">7d3815991b4df8109b9d99f7b04bcbb0</sys_package><sys_policy/><sys_scope display_value="Rotten Potatoes">7d3815991b4df8109b9d99f7b04bcbb0</sys_scope><sys_update_name>sys_ui_module_2e0765951b8df8109b9d99f7b04bcb5d</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-28 21:17:18</sys_updated_on><table>x_652573_rotten_po_reviews</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>-145559497</payload_hash>
+        <record_name>Reviews</record_name>
+        <reverted_from/>
+        <source>b53815991b4df8109b9d99f7b04bcbb3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-28 21:17:18</sys_created_on>
+        <sys_id>a60765951b8df8109b9d99f7b04bcb60</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17a547bd0430000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-28 21:17:18</sys_updated_on>
+        <type>Module</type>
+        <update_guid>ee076595de8df810987b09cd937e725f</update_guid>
+        <update_guid_history>ee076595de8df810987b09cd937e725f:-145559497</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-29 20:26:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>094e139c27434c5b836f01e91b47fb89</sys_id>
+        <sys_metadata>2e0765951b8df8109b9d99f7b04bcb5d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Reviews</sys_name>
+        <sys_package display_value="Rotten Potatoes" source="x_652573_rotten_po">7d3815991b4df8109b9d99f7b04bcbb0</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Rotten Potatoes">7d3815991b4df8109b9d99f7b04bcbb0</sys_scope>
+        <sys_scope_delete display_value="">1e9bb7e72e6e4176959dc0f3c8c4a0d9</sys_scope_delete>
+        <sys_update_name>sys_ui_module_2e0765951b8df8109b9d99f7b04bcb5d</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_2e0765951b8df8109b9d99f7b04bcb5d">a60765951b8df8109b9d99f7b04bcb60</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-29 20:26:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

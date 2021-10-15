@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="esbr_rating" table="x_652573_rotten_po_games" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>esbr_rating</element>
+            <name>x_652573_rotten_po_games</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-28 20:47:33</sys_created_on>
+            <sys_id>3e30e1111b8df8109b9d99f7b04bcb64</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>esbr_rating</sys_name>
+            <sys_package display_value="Rotten Potatoes" source="x_652573_rotten_po">7d3815991b4df8109b9d99f7b04bcbb0</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Rotten Potatoes">7d3815991b4df8109b9d99f7b04bcbb0</sys_scope>
+            <sys_update_name>sys_choice_x_652573_rotten_po_games_esbr_rating</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-28 20:47:33</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>esbr_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>N/A</label>
+            <language>en</language>
+            <name>x_652573_rotten_po_games</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-28 20:47:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8e206d9d1b4df8109b9d99f7b04bcb57</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-28 20:47:52</sys_updated_on>
+            <value>N/A</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>esbr_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>E</label>
+            <language>en</language>
+            <name>x_652573_rotten_po_games</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-28 20:47:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4330ed111b8df8109b9d99f7b04bcb47</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-28 20:48:28</sys_updated_on>
+            <value>E</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>esbr_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>T</label>
+            <language>en</language>
+            <name>x_652573_rotten_po_games</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-28 20:51:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f450ad111b8df8109b9d99f7b04bcb8d</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-28 20:51:48</sys_updated_on>
+            <value>T</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>esbr_rating</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>M</label>
+            <language>en</language>
+            <name>x_652573_rotten_po_games</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-06-28 20:52:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0051ad511b8df8109b9d99f7b04bcbf8</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-06-28 20:52:58</sys_updated_on>
+            <value>M</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_relationship">
+    <sys_relationship action="INSERT_OR_UPDATE">
+        <advanced>false</advanced>
+        <apply_to/>
+        <basic_apply_to>x_652573_rotten_po_games</basic_apply_to>
+        <basic_query_from>x_652573_rotten_po_reviews</basic_query_from>
+        <insert_callback/>
+        <name>Games Review</name>
+        <query_from/>
+        <query_with><![CDATA[(function refineQuery(current, parent) {
+
+	// Add your code here, such as current.addQuery(field, value);
+current.addQuery('game',parent.sys_id);
+	current.addQuery('status','Approved')
+	
+})(current, parent);]]></query_with>
+        <reference_field>game</reference_field>
+        <related_list/>
+        <simple_reference>false</simple_reference>
+        <sys_class_name>sys_relationship</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-29 13:19:38</sys_created_on>
+        <sys_id>5441c5291b093c109b9d99f7b04bcb88</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Games Review</sys_name>
+        <sys_package display_value="Rotten Potatoes" source="x_652573_rotten_po">7d3815991b4df8109b9d99f7b04bcbb0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rotten Potatoes">7d3815991b4df8109b9d99f7b04bcbb0</sys_scope>
+        <sys_update_name>sys_relationship_5441c5291b093c109b9d99f7b04bcb88</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-29 13:19:38</sys_updated_on>
+    </sys_relationship>
+    <sys_translated_text action="delete_multiple" query="documentkey=5441c5291b093c109b9d99f7b04bcb88"/>
+</record_update>
